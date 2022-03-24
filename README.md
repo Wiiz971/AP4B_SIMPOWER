@@ -2,7 +2,7 @@
 
 #### Informations générales :
 
-* [Depôt Github](https://github.com/Is-it-a-spider31/AP4B_SimPower)
+* [Depôt Github](https://github.com/Wiiz971/AP4B_SIMPOWER)
 
 * Membres de l'équipe :
     * [Jérôme DUBOIS](https://github.com/Is-it-a-spider31)
